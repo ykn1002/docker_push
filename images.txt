@@ -6,3 +6,7 @@ nginx
 milvusdb/milvus:v2.3.4
 minio/minio:RELEASE.2023-03-20T20-16-18Z
 minio/minio:latest
+elasticsearch:8.12.2
+redis:7.0
+mysql:8.0
+nginx:1.19.6
