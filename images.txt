@@ -11,4 +11,4 @@ nginx
 #mysql:8.0
 #nginx:1.19.6
 #pytorch/manylinux-cuda118:latest
-gadgetronnhlbi/gtprep4px_ubuntu_2204_cuda12_pytorch12
+tfra/nosla-cuda12.2-cudnn8.9-ubuntu20.04-manylinux2014-python3.10
