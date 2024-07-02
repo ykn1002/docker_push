@@ -12,4 +12,5 @@
 #nginx:1.19.6
 #pytorch/manylinux-cuda118:latest
 
-paddlepaddle/paddlespeech-audio-search-client:2.3
+#paddlepaddle/paddlespeech-audio-search-client:2.3
+ubuntu:20.04
