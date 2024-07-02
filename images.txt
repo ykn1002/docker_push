@@ -1,4 +1,4 @@
-nginx
+#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
@@ -11,4 +11,5 @@ nginx
 #mysql:8.0
 #nginx:1.19.6
 #pytorch/manylinux-cuda118:latest
-tfra/nosla-cuda12.2-cudnn8.9-ubuntu20.04-manylinux2014-python3.10
+
+paddlepaddle/paddlespeech-audio-search-client:2.3
