@@ -4,4 +4,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 lucaorioli/airflow-mssql_2008r2:2.7.3_oauth
-erickcomp/php8.2-sqlsrv-2008r2-apache2-xdebug:latest
+
