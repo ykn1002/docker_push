@@ -3,6 +3,4 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-seafileltd/seafile-mc:11.0-latest
-mariadb:10.11
-memcached:1.6.18
+openvpn/openvpn-as
