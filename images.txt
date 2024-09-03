@@ -4,3 +4,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 mrlioncub/nginx_upstream_check_module:latest
+congcong126/nginx-check:1.25.4-alpine3.18-perl
