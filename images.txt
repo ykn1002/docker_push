@@ -3,4 +3,5 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-lengyue233/fish-speech:v1.4.0
+gitlab/gitlab-runner:latest
+twang2218/gitlab-ce-zh 
