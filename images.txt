@@ -4,4 +4,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 sonarqube:lts-developer
-postgres:12.20-alpine
+
